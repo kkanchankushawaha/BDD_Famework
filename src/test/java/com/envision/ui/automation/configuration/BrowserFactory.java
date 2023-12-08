@@ -15,6 +15,8 @@ public class BrowserFactory {
 
     private WebDriver driver;
 
+
+    //Get driver method instance (for trying git hub)
     public WebDriver getDriverInstance() {
 
         return this.driver;
